@@ -41,18 +41,17 @@
 
 ## `$ whoami`
 
-```bash
-$ cat about.yaml
+<table>
+<tr><td><b>Role</b></td><td>Data Analyst / Aspiring Data Scientist</td></tr>
+<tr><td><b>Based in</b></td><td>Chennai, India</td></tr>
+<tr><td><b>Studying</b></td><td>B.Tech CSE (AI &amp; Data Science) — CGPA 9.55/10</td></tr>
+<tr><td><b>Experience</b></td><td>2 internships · 3 independent projects</td></tr>
+<tr><td><b>Stack</b></td><td>Python · SQL · Power BI · Scikit-learn</td></tr>
+<tr><td><b>Focus</b></td><td>Data Analytics · Machine Learning · NLP</td></tr>
+<tr><td><b>Open to</b></td><td>Data Analyst / Data Scientist / Power BI Analyst roles</td></tr>
+</table>
 
-role      :  Data Analyst / Aspiring Data Scientist
-based_in  :  Chennai, India
-studying  :  B.Tech CSE (AI & Data Science) — CGPA 9.55/10
-experience:  2 internships · 3 independent projects
-stack     :  Python · SQL · Power BI · Scikit-learn
-focus     :  Data Analytics · Machine Learning · NLP
-mission   :  "Turn raw data into decisions people can act on."
-open_to   :  Data Analyst / Data Scientist / Power BI Analyst roles
-```
+> *"Turn raw data into decisions people can act on."*
 
 I got into data because I like the moment a messy spreadsheet turns into a chart someone actually makes a decision from. I build machine learning models, NLP pipelines, and Power BI dashboards that hold up outside a notebook — from a cyberbullying classifier deployed with FastAPI to a star-schema retail dashboard shipped to stakeholders. Currently deepening my applied ML and statistics skills to move from analyst to data scientist.
 
