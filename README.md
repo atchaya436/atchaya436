@@ -16,9 +16,10 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=0B1120&labelColor=38BDF8)](https://atchaya436.github.io/my-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0B1120&labelColor=38BDF8)](https://www.linkedin.com/in/atchaya-k-a)
 [![GitHub](https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=0B1120&labelColor=38BDF8)](https://github.com/atchaya436)
-[![LeetCode](https://img.shields.io/badge/LeetCode-38BDF8?style=for-the-badge&logo=leetcode&logoColor=0B1120&labelColor=38BDF8)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-38BDF8?style=for-the-badge&logo=leetcode&logoColor=0B1120&labelColor=38BDF8)](https://leetcode.com/atchaya436)
 [![Email](https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=0B1120&labelColor=38BDF8)](mailto:ap.atchaya436@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=atchaya436&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" />
@@ -172,12 +173,12 @@ End-to-end BI platform for automated data cleaning, visualization, KPI analysis,
 
 <div align="center">
 
-![IBM](https://img.shields.io/badge/IBM%20Data%20Science%20Professional%20Certificate-Coursera%2C%202025-0B1120?style=for-the-badge&labelColor=0B1120&color=38BDF8)
-![Stanford](https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford%20%2F%20Coursera%2C%202026-0B1120?style=for-the-badge&labelColor=0B1120&color=38BDF8)
+[![IBM](https://img.shields.io/badge/IBM%20Data%20Science%20Professional%20Certificate-Coursera%2C%202025-0B1120?style=for-the-badge&labelColor=0B1120&color=38BDF8)](https://coursera.org/verify/professional-cert/PMEWPUOZWA1A)
+[![Stanford](https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford%20%2F%20Coursera%2C%202026-0B1120?style=for-the-badge&labelColor=0B1120&color=38BDF8)](https://coursera.org/verify/specialization/G7LB63VF6LD1)
 
 </div>
 
-<p align="center"><sub>Add your Coursera credential URLs to make these badges clickable — see notes below.</sub></p>
+<p align="center"><sub>Badges link to verified Coursera credentials.</sub></p>
 
 <br>
 
@@ -228,11 +229,9 @@ Relevant coursework: Data Structures & Algorithms · OOP · DBMS · Operating Sy
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/atchaya436?theme=dark&font=Fira%20Code&ext=contest" />
 
 </div>
-
-<p align="center"><sub>Replace YOUR_LEETCODE_USERNAME above and in the badge link with your actual LeetCode handle.</sub></p>
 
 <br>
 
@@ -270,6 +269,7 @@ open_to:
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=0B1120&labelColor=38BDF8)](https://atchaya436.github.io/my-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0B1120&labelColor=38BDF8)](https://www.linkedin.com/in/atchaya-k-a)
 [![GitHub](https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=0B1120&labelColor=38BDF8)](https://github.com/atchaya436)
 [![Email](https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=0B1120&labelColor=38BDF8)](mailto:ap.atchaya436@gmail.com)
