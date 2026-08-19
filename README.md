@@ -1,50 +1,44 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0B1120&fontColor=38BDF8&text=Atchaya%20K%20A&fontSize=38&desc=Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist&descColor=34D399&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1120&fontColor=38BDF8&text=Atchaya%20K%20A&fontSize=34&desc=Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist&descColor=34D399&height=160&animation=fadeIn" />
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=38BDF8&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Data+Analyst+%7C+ML+%26+NLP+Enthusiast;%24+stack+%E2%86%92+Python+%7C+SQL+%7C+Power+BI+%7C+Scikit-learn;%24+cat+open-to.txt+%E2%86%92+Data+Analyst+%2F+Data+Scientist+roles;%24+location+%E2%86%92+Chennai%2C+India" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&color=38BDF8&center=true&vCenter=true&width=820&lines=Data+Analyst+%7C+Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Raw+Data+Into+Actionable+Insights;Open+to+Data+Analyst+%2F+Data+Scientist+Roles" />
 </div>
 
 <div align="center">
 
 ![Degree](https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20Data%20Science)-0B1120?style=flat-square&labelColor=0B1120&color=38BDF8)
 ![University](https://img.shields.io/badge/Vel%20Tech%20R%26D%20Institute-2023--2027-0B1120?style=flat-square&labelColor=0B1120&color=34D399)
-![Location](https://img.shields.io/badge/📍-Chennai,_India-0B1120?style=flat-square&labelColor=0B1120&color=38BDF8)
+![Location](https://img.shields.io/badge/Location-Chennai,_India-0B1120?style=flat-square&labelColor=0B1120&color=38BDF8)
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0B1120&labelColor=38BDF8)](https://www.linkedin.com/in/atchaya-k-a)
-[![GitHub](https://img.shields.io/badge/GitHub-34D399?style=for-the-badge&logo=github&logoColor=0B1120&labelColor=34D399)](https://github.com/atchaya436)
-[![Email](https://img.shields.io/badge/Email-E5EDF5?style=for-the-badge&logo=gmail&logoColor=0B1120&labelColor=E5EDF5)](mailto:ap.atchaya436@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-38BDF8?style=flat-square&logo=linkedin&logoColor=0B1120&labelColor=38BDF8)](https://www.linkedin.com/in/atchaya-k-a)
+[![GitHub](https://img.shields.io/badge/GitHub-34D399?style=flat-square&logo=github&logoColor=0B1120&labelColor=34D399)](https://github.com/atchaya436)
+[![Email](https://img.shields.io/badge/Email-E5EDF5?style=flat-square&logo=gmail&logoColor=0B1120&labelColor=E5EDF5)](mailto:ap.atchaya436@gmail.com)
 
-</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=atchaya436&label=Profile%20Views&color=38BDF8&style=flat-square" />
 </div>
 
 <br>
 
-## `> whoami`
+## About Me
 
-Data Analyst and aspiring Data Scientist with hands-on internship experience building ML models, NLP pipelines, and Power BI dashboards. I like turning messy raw data into insights people can actually act on — currently deepening my skills in machine learning and applied data science.
+I'm a Data Analyst and aspiring Data Scientist with internship experience building machine learning models, NLP pipelines, and Power BI dashboards. I'm proficient in Python, SQL, Scikit-learn, and data visualization, with a strong focus on turning raw data into insights that support real decisions. I'm currently deepening my skills in applied machine learning and data science.
 
-```bash
-$ cat .profile
-
-ROLE     =  Data Analyst / Aspiring Data Scientist
-EXP      =  Fresher · 2 internships · 3 self-built projects
-DOMAIN   =  Data Analytics  |  Machine Learning  |  NLP
-STACK    =  Python  |  SQL  |  Power BI  |  Scikit-learn
-OPEN_TO  =  Data Analyst / Data Scientist roles
-```
+| | |
+| :-- | :-- |
+| **Role** | Data Analyst / Aspiring Data Scientist |
+| **Experience** | 2 internships · 3 independent projects |
+| **Focus Areas** | Data Analytics · Machine Learning · NLP |
+| **Core Stack** | Python · SQL · Power BI · Scikit-learn |
+| **Open To** | Data Analyst / Data Scientist roles |
 
 <br>
 
-## `> ls /tech-stack`
+## Technical Skills
 
 <div align="center">
 
@@ -70,7 +64,7 @@ OPEN_TO  =  Data Analyst / Data Scientist roles
 
 <br>
 
-## `> cat expertise.table`
+## Core Competencies
 
 | Domain | Proficiency | Details |
 | :-- | :-- | :-- |
@@ -82,16 +76,17 @@ OPEN_TO  =  Data Analyst / Data Scientist roles
 
 <br>
 
-## `> ls /featured-projects`
+## Featured Projects
 
 <details open>
-<summary><b>&#9654; Cyberbullying Detection &mdash; NLP-based text classifier</b></summary>
+<summary><b>Cyberbullying Detection — NLP-based text classifier</b></summary>
+<br>
 
 An end-to-end cyberbullying detection system using NLP and TF-IDF vectorization, benchmarking multiple ML models and deployed for real-time use.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python &middot; NLP &middot; Scikit-learn &middot; FastAPI &middot; Logistic Regression |
+| **Stack** | Python · NLP · Scikit-learn · FastAPI · Logistic Regression |
 | **Approach** | Compared Logistic Regression, Linear SVM, and Random Forest on Precision, Recall, F1-Score, ROC-AUC |
 | **Result** | Class-weight-balanced Logistic Regression — 87.4% Precision, 81.1% F1, 0.89 ROC-AUC |
 | **Repo** | [View](https://github.com/atchaya436/CyberBullying-Detection-using-Machine-Learning) |
@@ -101,13 +96,14 @@ Preprocessed and vectorized text data, benchmarked three models, and deployed th
 </details>
 
 <details>
-<summary><b>&#9654; Retail Sales Analysis Dashboard &mdash; Power BI star-schema report</b></summary>
+<summary><b>Retail Sales Analysis Dashboard — Power BI star-schema report</b></summary>
+<br>
 
 An interactive Retail Sales dashboard built on a star-schema data model with time-intelligence and cross-page filtering.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Power BI &middot; DAX &middot; Power Query |
+| **Stack** | Power BI · DAX · Power Query |
 | **Scale** | Full retail dataset with Year/Category/Age/Gender slicers |
 | **Impact** | Published to Power BI Service with scheduled refresh for on-demand stakeholder access |
 | **Repo** | [View](https://github.com/atchaya436/Retail-Sales-Analysis) |
@@ -117,13 +113,14 @@ Modeled Customer and Sales tables, authored DAX measures, and designed KPI cards
 </details>
 
 <details>
-<summary><b>&#9654; InsightGen AI &mdash; Intelligent data analytics platform</b></summary>
+<summary><b>InsightGen AI — Intelligent data analytics platform</b></summary>
+<br>
 
 An end-to-end BI platform for automated data cleaning, visualization, KPI analysis, and insight generation.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python &middot; Pandas &middot; Streamlit &middot; Scikit-learn |
+| **Stack** | Python · Pandas · Streamlit · Scikit-learn |
 | **Features** | K-Means customer segmentation, anomaly detection, automated reporting |
 | **Impact** | Interactive Streamlit app analyzing CSV/Excel datasets to generate actionable insights |
 | **Repo** | [View](https://github.com/atchaya436/InsightGen-AI) |
@@ -134,7 +131,7 @@ Built the full pipeline from data ingestion to insight generation in a single in
 
 <br>
 
-## `> cat experience.log`
+## Experience
 
 **Data Analyst Intern** — SITER Academy, Norway (Remote)
 `Jul 2025 – Oct 2025`
@@ -156,28 +153,28 @@ Built the full pipeline from data ingestion to insight generation in a single in
 
 <br>
 
-## `> cat certifications.txt`
+## Certifications
 
 <div align="center">
 
-![IBM](https://img.shields.io/badge/IBM%20Data%20Science%20Professional%20Certificate-Coursera%2C%202025-0B1120?style=for-the-badge&labelColor=0B1120&color=38BDF8)
-![Stanford](https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford%20%2F%20Coursera%2C%202026-0B1120?style=for-the-badge&labelColor=0B1120&color=34D399)
+![IBM](https://img.shields.io/badge/IBM%20Data%20Science%20Professional%20Certificate-Coursera%2C%202025-0B1120?style=flat-square&labelColor=0B1120&color=38BDF8)
+![Stanford](https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford%20%2F%20Coursera%2C%202026-0B1120?style=flat-square&labelColor=0B1120&color=34D399)
 
 </div>
 
 <br>
 
-## `> cat education.badge`
+## Education
 
 <div align="center">
 
-![Education](https://img.shields.io/badge/B.Tech%20CSE%20(AI%20%26%20Data%20Science)-CGPA%209.55%2F10-0B1120?style=for-the-badge&labelColor=0B1120&color=38BDF8)
+![Education](https://img.shields.io/badge/B.Tech%20CSE%20(AI%20%26%20Data%20Science)-CGPA%209.55%2F10-0B1120?style=flat-square&labelColor=0B1120&color=38BDF8)
 
 </div>
 
 <br>
 
-## `> ls /github-analytics`
+## GitHub Analytics
 
 <div align="center">
 
@@ -194,18 +191,6 @@ Built the full pipeline from data ingestion to insight generation in a single in
 
 <br>
 
-## `> ls /trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=atchaya436&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
-<br>
-
-## `> cat activity-graph.svg`
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atchaya436&bg_color=0B1120&color=38BDF8&line=38BDF8&point=34D399&area=true&hide_border=true" width="100%" />
@@ -213,8 +198,6 @@ Built the full pipeline from data ingestion to insight generation in a single in
 </div>
 
 <br>
-
-## `> cat contribution-summary.json`
 
 <div align="center">
 
@@ -228,37 +211,22 @@ Built the full pipeline from data ingestion to insight generation in a single in
 
 <br>
 
-## `> cat current-focus.yaml`
+## Currently
 
-```yaml
-learning:
-  - Advanced machine learning and applied data science
-  - Deepening statistics and model deployment skills
-
-building:
-  - InsightGen AI  # expanding automated analytics platform
-  - Personal ML/NLP projects to strengthen portfolio
-
-open_to:
-  - Data Analyst roles
-  - Data Scientist roles
-  - Power BI Data Analyst roles
-```
+- **Learning:** Advanced machine learning and applied data science, statistics, and model deployment
+- **Building:** Expanding InsightGen AI and other ML/NLP projects
+- **Open to:** Data Analyst, Data Scientist, and Power BI Data Analyst roles
 
 <br>
 
-## `> connect --with-me`
+## Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0B1120&labelColor=38BDF8)](https://www.linkedin.com/in/atchaya-k-a)
-[![GitHub](https://img.shields.io/badge/GitHub-34D399?style=for-the-badge&logo=github&logoColor=0B1120&labelColor=34D399)](https://github.com/atchaya436)
-[![Email](https://img.shields.io/badge/Email-E5EDF5?style=for-the-badge&logo=gmail&logoColor=0B1120&labelColor=E5EDF5)](mailto:ap.atchaya436@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-38BDF8?style=flat-square&logo=linkedin&logoColor=0B1120&labelColor=38BDF8)](https://www.linkedin.com/in/atchaya-k-a)
+[![GitHub](https://img.shields.io/badge/GitHub-34D399?style=flat-square&logo=github&logoColor=0B1120&labelColor=34D399)](https://github.com/atchaya436)
+[![Email](https://img.shields.io/badge/Email-E5EDF5?style=flat-square&logo=gmail&logoColor=0B1120&labelColor=E5EDF5)](mailto:ap.atchaya436@gmail.com)
 
 </div>
 
-<div align="center">
-<i>"Turning raw data into decisions, one dashboard at a time."</i>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0B1120&fontColor=38BDF8&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1120&height=80&section=footer" />
