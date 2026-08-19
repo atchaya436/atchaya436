@@ -39,7 +39,7 @@
 
 <br>
 
-## `$ whoami`
+## 👋 About Me
 
 <table>
 <tr><td><b>Role</b></td><td>Data Analyst / Aspiring Data Scientist</td></tr>
@@ -57,7 +57,7 @@ I got into data because I like the moment a messy spreadsheet turns into a chart
 
 <br>
 
-## `$ ls skills/`
+## 🛠️ Technical Skills
 
 <div align="center">
 
@@ -85,7 +85,7 @@ I got into data because I like the moment a messy spreadsheet turns into a chart
 
 <br>
 
-## `$ cat expertise.md`
+## 📊 Areas of Expertise
 
 | Domain | Proficiency | What I bring |
 | :-- | :-- | :-- |
@@ -97,7 +97,7 @@ I got into data because I like the moment a messy spreadsheet turns into a chart
 
 <br>
 
-## `$ ls projects/ --featured`
+## 🚀 Featured Projects
 
 <details open>
 <summary><b>🛡️ Cyberbullying Detection — 87.4% Precision, deployed via FastAPI</b></summary>
@@ -146,7 +146,7 @@ End-to-end BI platform for automated data cleaning, visualization, KPI analysis,
 
 <br>
 
-## `$ cat experience.log`
+## 💼 Experience
 
 **Data Analyst Intern** — SITER Academy, Norway (Remote)
 `Jul 2025 – Oct 2025`
@@ -168,7 +168,7 @@ End-to-end BI platform for automated data cleaning, visualization, KPI analysis,
 
 <br>
 
-## `$ cat certifications.txt`
+## 📜 Certifications
 
 <div align="center">
 
@@ -181,7 +181,7 @@ End-to-end BI platform for automated data cleaning, visualization, KPI analysis,
 
 <br>
 
-## `$ cat education.txt`
+## 🎓 Education
 
 **B.Tech — CSE (AI & Data Science)**, Vel Tech R&D Institute, Chennai `2023–2027` · CGPA: **9.55/10**
 Relevant coursework: Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
@@ -191,7 +191,7 @@ Relevant coursework: Data Structures & Algorithms · OOP · DBMS · Operating Sy
 
 <br>
 
-## `$ ./analytics.sh --github`
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -224,7 +224,7 @@ Relevant coursework: Data Structures & Algorithms · OOP · DBMS · Operating Sy
 
 <br>
 
-## `$ cat leetcode.txt`
+## 🧩 LeetCode Stats
 
 <div align="center">
 
@@ -234,37 +234,38 @@ Relevant coursework: Data Structures & Algorithms · OOP · DBMS · Operating Sy
 
 <br>
 
-## `$ ./snake.sh`
+## 🎯 Currently
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<img src="https://raw.githubusercontent.com/atchaya436/atchaya436/output/github-contribution-grid-snake-dark.svg" width="100%" />
+**📚 Learning**
+- Advanced machine learning
+- Statistics & model deployment
 
-</div>
+</td>
+<td valign="top" width="33%">
 
-<p align="center"><sub>Requires the snake.yml workflow — see setup notes below.</sub></p>
+**🏗️ Building**
+- InsightBI (expanding features)
+- New ML/NLP experiments
+
+</td>
+<td valign="top" width="33%">
+
+**🎯 Open To**
+- Data Analyst
+- Data Scientist
+- Power BI Analyst
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## `$ cat current-focus.yaml`
-
-```yaml
-learning:
-  - Advanced machine learning, statistics & model deployment
-
-building:
-  - InsightBI — expanding automated analytics features
-  - New ML/NLP experiments
-
-open_to:
-  - Data Analyst
-  - Data Scientist
-  - Power BI Data Analyst
-```
-
-<br>
-
-## `$ ./connect.sh`
+## 📬 Let's Connect
 
 <div align="center">
 
