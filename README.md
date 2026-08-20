@@ -1,126 +1,133 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&fontColor=38BDF8&text=Hi%2C%20I'm%20Atchaya%20%F0%9F%91%8B&fontSize=34&fontAlignY=35&desc=Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist&descColor=38BDF8&descSize=17&descAlignY=62&height=210&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:1E293B&height=220&section=header&text=ATCHAYA%20K%20A&fontSize=46&fontColor=D4AF37&fontAlignY=42&desc=Data%20Analyst%20%E2%80%A2%20Aspiring%20Data%20Scientist&descSize=18&descColor=5EEAD4&descAlignY=60&animation=fadeIn" />
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=38BDF8&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+Into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+ML+Models+%2C+NLP+Pipelines+%26+BI+Dashboards;Open+to+Data+Analyst+%2F+Data+Scientist+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=5EEAD4&center=true&vCenter=true&width=780&lines=Turning+raw+data+into+decisions+people+act+on;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Scikit-learn;Machine+Learning+%C2%B7+NLP+%C2%B7+Business+Intelligence" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20Data%20Science)-1E293B?style=flat-square&labelColor=1E293B&color=D4AF37" />
+<img src="https://img.shields.io/badge/CGPA-9.55%20%2F%2010-1E293B?style=flat-square&labelColor=1E293B&color=D4AF37" />
+<img src="https://img.shields.io/badge/Chennai%2C%20India-1E293B?style=flat-square&labelColor=1E293B&color=D4AF37" />
+
 </div>
 
 <div align="center">
 
-![Degree](https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20Data%20Science)-0B1120?style=for-the-badge&labelColor=0B1120&color=38BDF8)
-![CGPA](https://img.shields.io/badge/CGPA-9.55%2F10-0B1120?style=for-the-badge&labelColor=0B1120&color=38BDF8)
-![Location](https://img.shields.io/badge/Chennai,_India-0B1120?style=for-the-badge&labelColor=0B1120&color=38BDF8)
+&nbsp;
+[**Portfolio**](https://atchaya436.github.io/my-portfolio/) &nbsp;·&nbsp;
+[**LinkedIn**](https://www.linkedin.com/in/atchaya-k-a) &nbsp;·&nbsp;
+[**GitHub**](https://github.com/atchaya436) &nbsp;·&nbsp;
+[**LeetCode**](https://leetcode.com/atchaya436) &nbsp;·&nbsp;
+[**Email**](mailto:ap.atchaya436@gmail.com)
+&nbsp;
 
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=0B1120&labelColor=38BDF8)](https://atchaya436.github.io/my-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0B1120&labelColor=38BDF8)](https://www.linkedin.com/in/atchaya-k-a)
-[![GitHub](https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=0B1120&labelColor=38BDF8)](https://github.com/atchaya436)
-[![LeetCode](https://img.shields.io/badge/LeetCode-38BDF8?style=for-the-badge&logo=leetcode&logoColor=0B1120&labelColor=38BDF8)](https://leetcode.com/atchaya436)
-[![Email](https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=0B1120&labelColor=38BDF8)](mailto:ap.atchaya436@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=atchaya436&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" />
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=atchaya436&color=1e293b&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
 <br>
 
-<!-- QUICK FACTS STRIP -->
 <div align="center">
-
-| 🎓 CGPA | 💼 Internships | 🚀 Shipped Projects | 📍 Based In |
-| :--: | :--: | :--: | :--: |
-| **9.55 / 10** | **2** | **3** | **Chennai, India** |
-
-</div>
-
-<br>
-
-## 👋 About Me
 
 <table>
-<tr><td><b>Role</b></td><td>Data Analyst / Aspiring Data Scientist</td></tr>
-<tr><td><b>Based in</b></td><td>Chennai, India</td></tr>
-<tr><td><b>Studying</b></td><td>B.Tech CSE (AI &amp; Data Science) — CGPA 9.55/10</td></tr>
-<tr><td><b>Experience</b></td><td>2 internships · 3 independent projects</td></tr>
-<tr><td><b>Stack</b></td><td>Python · SQL · Power BI · Scikit-learn</td></tr>
-<tr><td><b>Focus</b></td><td>Data Analytics · Machine Learning · NLP</td></tr>
-<tr><td><b>Open to</b></td><td>Data Analyst / Data Scientist / Power BI Analyst roles</td></tr>
+<tr>
+<td align="center" width="25%"><h3>9.55</h3><sub>CGPA / 10</sub></td>
+<td align="center" width="25%"><h3>2</h3><sub>Internships</sub></td>
+<td align="center" width="25%"><h3>3</h3><sub>Shipped Projects</sub></td>
+<td align="center" width="25%"><h3>87.4%</h3><sub>Best Model Precision</sub></td>
+</tr>
 </table>
 
-> *"Turn raw data into decisions people can act on."*
-
-I got into data because I like the moment a messy spreadsheet turns into a chart someone actually makes a decision from. I build machine learning models, NLP pipelines, and Power BI dashboards that hold up outside a notebook — from a cyberbullying classifier deployed with FastAPI to a star-schema retail dashboard shipped to stakeholders. Currently deepening my applied ML and statistics skills to move from analyst to data scientist.
+</div>
 
 <br>
 
-## 🛠️ Technical Skills
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
 
-<div align="center">
+## About Me
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=sklearn,jupyter,streamlit&theme=dark" />
-<br>
+<table>
+<tr>
+<td width="58%" valign="top">
+
+I got into data because I like the moment a messy spreadsheet turns into a chart someone actually makes a decision from. I build machine learning models, NLP pipelines, and Power BI dashboards that hold up outside a notebook — from a cyberbullying classifier deployed with FastAPI to a star-schema retail dashboard shipped to stakeholders.
+
+Currently deepening my applied ML and statistics skills to move from analyst to data scientist.
+
+**Open to:** Data Analyst · Data Scientist · Power BI Analyst roles
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<img src="https://skillicons.dev/icons?i=python,sql,mysql&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=sklearn,jupyter,streamlit&theme=dark" /><br><br>
 <img src="https://skillicons.dev/icons?i=azure,git,github,vscode&theme=dark" />
 
-</div>
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
+
+## Technical Skills
 
 <div align="center">
 
-![Pandas](https://img.shields.io/badge/Pandas-38BDF8?style=flat-square&labelColor=0B1120)
-![NumPy](https://img.shields.io/badge/NumPy-38BDF8?style=flat-square&labelColor=0B1120)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-38BDF8?style=flat-square&labelColor=0B1120)
-![Seaborn](https://img.shields.io/badge/Seaborn-38BDF8?style=flat-square&labelColor=0B1120)
-![Power BI](https://img.shields.io/badge/Power%20BI-38BDF8?style=flat-square&labelColor=0B1120)
-![DAX](https://img.shields.io/badge/DAX-38BDF8?style=flat-square&labelColor=0B1120)
-![Power Query](https://img.shields.io/badge/Power%20Query-38BDF8?style=flat-square&labelColor=0B1120)
-![FastAPI](https://img.shields.io/badge/FastAPI-38BDF8?style=flat-square&labelColor=0B1120)
-![Excel](https://img.shields.io/badge/MS%20Excel-38BDF8?style=flat-square&labelColor=0B1120)
+<img src="https://img.shields.io/badge/Pandas-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
+<img src="https://img.shields.io/badge/NumPy-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
+<img src="https://img.shields.io/badge/Matplotlib-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
+<img src="https://img.shields.io/badge/Seaborn-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
+<img src="https://img.shields.io/badge/Power%20BI-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
+<img src="https://img.shields.io/badge/DAX-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
+<img src="https://img.shields.io/badge/Power%20Query-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
+<img src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
+<img src="https://img.shields.io/badge/MS%20Excel-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
 
 </div>
 
 <br>
 
-## 📊 Areas of Expertise
+<table align="center" width="100%">
+<tr><th align="left">Domain</th><th align="left">Strength</th><th align="left">Details</th></tr>
+<tr><td><b>Data Analysis & EDA</b></td><td>●●●●●</td><td>Data wrangling, cleaning, feature engineering</td></tr>
+<tr><td><b>BI & Visualization</b></td><td>●●●●●</td><td>Power BI, DAX, Power Query, star-schema modeling</td></tr>
+<tr><td><b>Machine Learning</b></td><td>●●●●○</td><td>Scikit-learn, classification, model evaluation</td></tr>
+<tr><td><b>NLP</b></td><td>●●●●○</td><td>TF-IDF vectorization, text classification</td></tr>
+<tr><td><b>SQL & Databases</b></td><td>●●●●○</td><td>MySQL, Azure SQL</td></tr>
+</table>
 
-| Domain | Proficiency | What I bring |
-| :-- | :-- | :-- |
-| **Data Analysis & EDA** | ⭐⭐⭐⭐⭐ | Data wrangling, cleaning, feature engineering |
-| **BI & Visualization** | ⭐⭐⭐⭐⭐ | Power BI, DAX, Power Query, star-schema modeling |
-| **Machine Learning** | ⭐⭐⭐⭐ | Scikit-learn, classification models, model evaluation |
-| **NLP** | ⭐⭐⭐⭐ | TF-IDF vectorization, text classification |
-| **SQL & Databases** | ⭐⭐⭐⭐ | MySQL, Azure SQL |
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
 
-<br>
-
-## 🚀 Featured Projects
+## Featured Projects
 
 <details open>
-<summary><b>🛡️ Cyberbullying Detection — 87.4% Precision, deployed via FastAPI</b></summary>
+<summary><b>🛡️&nbsp; Cyberbullying Detection — 87.4% Precision, deployed via FastAPI</b></summary>
 <br>
 
 End-to-end cyberbullying detection system using NLP and TF-IDF vectorization, benchmarked across three models and deployed for real-time inference.
 
-| Aspect | Detail |
+| | |
 | :-- | :-- |
 | **Stack** | Python · NLP · Scikit-learn · FastAPI · Logistic Regression |
-| **Approach** | Benchmarked Logistic Regression, Linear SVM, and Random Forest on Precision, Recall, F1-Score, and ROC-AUC |
-| **Result** | Class-weight-balanced Logistic Regression → <span style="color:#34D399">**87.4% Precision · 81.1% F1 · 0.89 ROC-AUC**</span> |
+| **Approach** | Benchmarked Logistic Regression, Linear SVM, and Random Forest on Precision, Recall, F1-Score, ROC-AUC |
+| **Result** | Class-weight-balanced Logistic Regression — **87.4% Precision · 81.1% F1 · 0.89 ROC-AUC** |
 | **Repo** | [View →](https://github.com/atchaya436/CyberBullying-Detection-using-Machine-Learning) |
 
 </details>
 
 <details>
-<summary><b>📊 Retail Sales Dashboard — star-schema Power BI report, published to Power BI Service</b></summary>
+<summary><b>📊&nbsp; Retail Sales Dashboard — star-schema Power BI report</b></summary>
 <br>
 
 Interactive retail sales dashboard on a star-schema data model with time-intelligence and cross-page filtering, published for on-demand stakeholder access.
 
-| Aspect | Detail |
+| | |
 | :-- | :-- |
 | **Stack** | Power BI · DAX · Power Query |
 | **Scale** | Full retail dataset with Year / Category / Age / Gender slicers |
@@ -130,12 +137,12 @@ Interactive retail sales dashboard on a star-schema data model with time-intelli
 </details>
 
 <details>
-<summary><b>🤖 InsightBI — automated analytics platform built on Streamlit</b></summary>
+<summary><b>🤖&nbsp; InsightBI — automated analytics platform built on Streamlit</b></summary>
 <br>
 
-End-to-end BI platform for automated data cleaning, visualization, KPI analysis, and insight generation — built as an interactive Streamlit app.
+End-to-end BI platform for automated data cleaning, visualization, KPI analysis, and insight generation.
 
-| Aspect | Detail |
+| | |
 | :-- | :-- |
 | **Stack** | Python · Pandas · Streamlit · Scikit-learn |
 | **Features** | K-Means customer segmentation, anomaly detection, automated reporting |
@@ -144,120 +151,98 @@ End-to-end BI platform for automated data cleaning, visualization, KPI analysis,
 
 </details>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
 
-## 💼 Experience
+## Experience
 
-**Data Analyst Intern** — SITER Academy, Norway (Remote)
-`Jul 2025 – Oct 2025`
+**Data Analyst Intern** — SITER Academy, Norway (Remote) &nbsp;·&nbsp; *Jul 2025 – Oct 2025*
 - Developed an interactive Retail Sales dashboard in Power BI on a star-schema model with time-intelligence and cross-page filtering
 - Designed KPI cards, trend charts, and a customer segmentation scatter plot to surface actionable business insights
 - Implemented dynamic slicers (Year, Category, Age, Gender) and custom navigation for self-service data exploration
 
-`Power BI` `DAX` `Power Query` `Data Modeling`
+<sub>`Power BI` `DAX` `Power Query` `Data Modeling`</sub>
 
 <br>
 
-**Machine Learning Intern** — Jyesta Corporate Entity, Bangalore
-`Jul 2025 – Sep 2025`
+**Machine Learning Intern** — Jyesta Corporate Entity, Bangalore &nbsp;·&nbsp; *Jul 2025 – Sep 2025*
 - Built an end-to-end cyberbullying detection system using NLP and TF-IDF vectorization with Scikit-learn
 - Compared Logistic Regression, Linear SVM, and Random Forest on Precision, Recall, F1-Score, and ROC-AUC
-- Selected class-weight-balanced Logistic Regression using macro-F1 → 87.4% Precision, 81.1% F1, 0.89 ROC-AUC
+- Selected class-weight-balanced Logistic Regression using macro-F1 — 87.4% Precision, 81.1% F1, 0.89 ROC-AUC
 
-`Python` `NLP` `Scikit-learn` `Model Evaluation`
+<sub>`Python` `NLP` `Scikit-learn` `Model Evaluation`</sub>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
 
-## 📜 Certifications
+## Certifications & Education
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![IBM](https://img.shields.io/badge/IBM%20Data%20Science%20Professional%20Certificate-Coursera%2C%202025-0B1120?style=for-the-badge&labelColor=0B1120&color=38BDF8)](https://coursera.org/verify/professional-cert/PMEWPUOZWA1A)
-[![Stanford](https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford%20%2F%20Coursera%2C%202026-0B1120?style=for-the-badge&labelColor=0B1120&color=38BDF8)](https://coursera.org/verify/specialization/G7LB63VF6LD1)
+**Certifications**
+- [IBM Data Science Professional Certificate](https://coursera.org/verify/professional-cert/PMEWPUOZWA1A) — Coursera, 2025
+- [Machine Learning Specialization](https://coursera.org/verify/specialization/G7LB63VF6LD1) — Stanford / Coursera, 2026
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<p align="center"><sub>Badges link to verified Coursera credentials.</sub></p>
+**Education**
+- **B.Tech, CSE (AI & Data Science)** — Vel Tech R&D Institute, Chennai · 2023–2027 · CGPA 9.55/10
+- Coursework: DSA · OOP · DBMS · OS · Computer Networks
 
-<br>
+</td>
+</tr>
+</table>
 
-## 🎓 Education
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
 
-**B.Tech — CSE (AI & Data Science)**, Vel Tech R&D Institute, Chennai `2023–2027` · CGPA: **9.55/10**
-Relevant coursework: Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
-
-**Higher Secondary (Class XII)**, Sudharshanam Vidyaashram `2023` · 87.2%
-**Secondary (Class X)**, Jaigopal Garodia Vivekananda Vidyalaya `2021` · 85.2%
-
-<br>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=atchaya436&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=E5EDF5&bg_color=0B1120" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=atchaya436&hide_border=true&background=0B1120&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-
-</div>
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atchaya436&layout=compact&hide_border=true&title_color=38BDF8&text_color=E5EDF5&bg_color=0B1120" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=atchaya436&show_icons=true&hide_border=true&title_color=D4AF37&icon_color=5EEAD4&text_color=F1F5F9&bg_color=0F172A" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=atchaya436&hide_border=true&background=0F172A&stroke=D4AF37&ring=5EEAD4&fire=D4AF37&currStreakLabel=D4AF37" />
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atchaya436&layout=compact&hide_border=true&title_color=D4AF37&text_color=F1F5F9&bg_color=0F172A" />
 
-<br>
+<img src="https://github-profile-trophy.vercel.app/?username=atchaya436&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=atchaya436&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atchaya436&bg_color=0F172A&color=D4AF37&line=D4AF37&point=5EEAD4&area=true&hide_border=true" width="100%" />
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atchaya436&bg_color=0B1120&color=38BDF8&line=38BDF8&point=34D399&area=true&hide_border=true" width="100%" />
-
-</div>
-
-<br>
-
-## 🧩 LeetCode Stats
+## LeetCode
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/atchaya436?theme=dark&font=Fira%20Code&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/atchaya436?theme=dark&font=JetBrains%20Mono&ext=contest" />
 
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
 
-## 🎯 Currently
+## Currently
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
 **📚 Learning**
-- Advanced machine learning
-- Statistics & model deployment
+Advanced machine learning, statistics & model deployment
 
 </td>
 <td valign="top" width="33%">
 
 **🏗️ Building**
-- InsightBI (expanding features)
-- New ML/NLP experiments
+InsightBI features · new ML/NLP experiments
 
 </td>
 <td valign="top" width="33%">
 
 **🎯 Open To**
-- Data Analyst
-- Data Scientist
-- Power BI Analyst
+Data Analyst · Data Scientist · Power BI Analyst
 
 </td>
 </tr>
@@ -265,17 +250,15 @@ Relevant coursework: Data Structures & Algorithms · OOP · DBMS · Operating Sy
 
 <br>
 
-## 📬 Let's Connect
-
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=0B1120&labelColor=38BDF8)](https://atchaya436.github.io/my-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0B1120&labelColor=38BDF8)](https://www.linkedin.com/in/atchaya-k-a)
-[![GitHub](https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=0B1120&labelColor=38BDF8)](https://github.com/atchaya436)
-[![Email](https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=0B1120&labelColor=38BDF8)](mailto:ap.atchaya436@gmail.com)
 
 *"Turning raw data into decisions people can act on."*
 
+[**Portfolio**](https://atchaya436.github.io/my-portfolio/) &nbsp;·&nbsp;
+[**LinkedIn**](https://www.linkedin.com/in/atchaya-k-a) &nbsp;·&nbsp;
+[**GitHub**](https://github.com/atchaya436) &nbsp;·&nbsp;
+[**Email**](mailto:ap.atchaya436@gmail.com)
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=90&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1E293B,100:0F172A&height=100&section=footer" />
