@@ -1,5 +1,6 @@
-<h1 align="center">Atchaya K A</h1>
-<p align="center"><i>Data Analyst · Aspiring Data Scientist</i></p>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1A1B26,100:24283B&fontColor=7AA2F7&text=Atchaya%20K%20A&fontSize=42&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Aspiring%20Data%20Scientist&descColor=BB9AF7&descSize=18&descAlignY=58&height=220&animation=twinkling" />
+</div>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+Into+Actionable+Insights;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning;Building+ML+Models%2C+NLP+Pipelines+%26+BI+Dashboards;Open+to+Data+Analyst+%2F+Data+Scientist+Roles" />
@@ -309,6 +310,4 @@ End-to-end BI platform for automated data cleaning, visualization, KPI analysis,
 
 </div>
 
----
-
-<p align="center"><sub>Thanks for stopping by 👋</sub></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1A1B26,100:24283B&height=100&section=footer" />
