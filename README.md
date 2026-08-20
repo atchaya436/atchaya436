@@ -1,73 +1,28 @@
-<h1 align="center">Atchaya K A</h1>
-<p align="center"><i>Data Analyst · Aspiring Data Scientist</i></p>
+<h1 align="center">Atchaya K A</h1> <p align="center"><i>Data Analyst · Aspiring Data Scientist</i></p> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+Into+Actionable+Insights;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning;Building+ML+Models%2C+NLP+Pipelines+%26+BI+Dashboards;Open+to+Data+Analyst+%2F+Data+Scientist+Roles" /> </div> <br> <div align="center">
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+Into+Actionable+Insights;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning;Building+ML+Models%2C+NLP+Pipelines+%26+BI+Dashboards;Open+to+Data+Analyst+%2F+Data+Scientist+Roles" />
-</div>
+Show Image Show Image Show Image Show Image Show Image
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=atchaya436&color=7AA2F7&style=for-the-badge&label=PROFILE+VIEWS" /> </div> <br> <div align="center">
 
-<div align="center">
+Show Image Show Image Show Image Show Image
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=1A1B26)](https://atchaya436.github.io/my-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=1A1B26)](https://www.linkedin.com/in/atchaya-k-a)
-[![GitHub](https://img.shields.io/badge/GITHUB-7AA2F7?style=for-the-badge&logo=github&logoColor=1A1B26)](https://github.com/atchaya436)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-7AA2F7?style=for-the-badge&logo=leetcode&logoColor=1A1B26)](https://leetcode.com/atchaya436)
-[![Email](https://img.shields.io/badge/EMAIL-7AA2F7?style=for-the-badge&logo=gmail&logoColor=1A1B26)](mailto:ap.atchaya436@gmail.com)
+</div> <br>
+🧭  About Me
+<table> <tr><td width="140"><b>Role</b></td><td>Data Analyst / Aspiring Data Scientist</td></tr> <tr><td><b>Based in</b></td><td>Chennai, India</td></tr> <tr><td><b>Studying</b></td><td>B.Tech CSE (AI &amp; Data Science) — Vel Tech R&amp;D Institute · CGPA 9.55/10</td></tr> <tr><td><b>Experience</b></td><td>2 internships · 3 independent projects</td></tr> <tr><td><b>Focus</b></td><td>Data Analytics · Machine Learning · NLP</td></tr> <tr><td><b>Open to</b></td><td>Data Analyst / Data Scientist / Power BI Analyst roles</td></tr> </table>
 
-<img src="https://komarev.com/ghpvc/?username=atchaya436&color=7AA2F7&style=for-the-badge&label=PROFILE+VIEWS" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![CGPA](https://img.shields.io/badge/CGPA-9.55%2F10-1A1B26?style=for-the-badge&labelColor=1A1B26&color=9ECE6A)
-![Internships](https://img.shields.io/badge/INTERNSHIPS-2-1A1B26?style=for-the-badge&labelColor=1A1B26&color=9ECE6A)
-![Projects](https://img.shields.io/badge/PROJECTS_SHIPPED-3-1A1B26?style=for-the-badge&labelColor=1A1B26&color=9ECE6A)
-![Location](https://img.shields.io/badge/CHENNAI%2C_INDIA-1A1B26?style=for-the-badge&labelColor=1A1B26&color=9ECE6A)
-
-</div>
-
-<br>
-
----
-
-### 🧭&nbsp; About Me
-
-<table>
-<tr><td width="140"><b>Role</b></td><td>Data Analyst / Aspiring Data Scientist</td></tr>
-<tr><td><b>Based in</b></td><td>Chennai, India</td></tr>
-<tr><td><b>Studying</b></td><td>B.Tech CSE (AI &amp; Data Science) — Vel Tech R&amp;D Institute · CGPA 9.55/10</td></tr>
-<tr><td><b>Experience</b></td><td>2 internships · 3 independent projects</td></tr>
-<tr><td><b>Focus</b></td><td>Data Analytics · Machine Learning · NLP</td></tr>
-<tr><td><b>Open to</b></td><td>Data Analyst / Data Scientist / Power BI Analyst roles</td></tr>
-</table>
-
-> *"Turn raw data into decisions people can act on."*
+"Turn raw data into decisions people can act on."
 
 I got into data because I like the moment a messy spreadsheet turns into a chart someone actually makes a decision from. I build machine learning models, NLP pipelines, and Power BI dashboards that hold up outside a notebook — from a cyberbullying classifier deployed with FastAPI to a star-schema retail dashboard shipped to stakeholders. Currently deepening my applied ML and statistics skills to move from analyst to data scientist.
 
 <br>
+🛠️  Technical Skills
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark" /> &nbsp; <img src="https://skillicons.dev/icons?i=sklearn,jupyter,streamlit&theme=dark" /> &nbsp; <img src="https://skillicons.dev/icons?i=azure,git,github,vscode&theme=dark" /> </div> <br> <div align="center">
 
----
+Languages & Libraries <br> Show Image Show Image Show Image Show Image Show Image Show Image
 
-### 🛠️&nbsp; Technical Skills
+BI, Data & Tools <br> Show Image Show Image Show Image Show Image Show Image Show Image
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=sklearn,jupyter,streamlit&theme=dark" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=azure,git,github,vscode&theme=dark" />
-
-</div>
-
-<br>
-
-<div align="center">
+</div> <br>
 
 **Languages & Libraries**
 <br>
