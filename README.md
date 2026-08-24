@@ -241,8 +241,6 @@ End-to-end BI platform for automated data cleaning, visualization, KPI analysis,
 
 <img height="165" alt="Atchaya's GitHub streak stats" src="https://streak-stats.demolab.com/?user=atchaya436&hide_border=true&background=0F172A&stroke=D4AF37&ring=5EEAD4&fire=D4AF37&currStreakLabel=D4AF37" />
 
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=atchaya436&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
 <img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=atchaya436&bg_color=0F172A&color=D4AF37&line=D4AF37&point=5EEAD4&area=true&hide_border=true" width="100%" />
 
 </div>
