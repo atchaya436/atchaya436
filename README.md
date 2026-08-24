@@ -180,8 +180,8 @@ End-to-end BI platform for automated data cleaning, visualization, KPI analysis,
 <td width="50%" valign="top">
 
 **Certifications**
-- [IBM Data Science Professional Certificate](https://coursera.org/verify/professional-cert/PMEWPUOZWA1A) — Coursera, 2025
-- [Machine Learning Specialization](https://coursera.org/verify/specialization/G7LB63VF6LD1) — Stanford / Coursera, 2026
+- [IBM Data Science Professional Certificate](https://coursera.org/share/e570df640903b0c7db1cd4d8590fabac) — Coursera, 2025
+- [Machine Learning Specialization](https://coursera.org/share/c8a5a66d75ca211682d539502959b4ff) — Stanford / Coursera, 2026
 
 </td>
 <td width="50%" valign="top">
