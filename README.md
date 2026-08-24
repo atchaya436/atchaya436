@@ -1,18 +1,26 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:1E293B&height=220&section=header&text=ATCHAYA%20K%20A&fontSize=46&fontColor=D4AF37&fontAlignY=42&desc=Data%20Analyst%20%E2%80%A2%20Aspiring%20Data%20Scientist&descSize=18&descColor=5EEAD4&descAlignY=60&animation=fadeIn" />
+<img width="100%" alt="Atchaya K A - Data Analyst, Aspiring Data Scientist" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:1E293B&height=220&section=header&text=ATCHAYA%20K%20A&fontSize=46&fontColor=D4AF37&fontAlignY=42&desc=Data%20Analyst%20%E2%80%A2%20Aspiring%20Data%20Scientist&descSize=18&descColor=5EEAD4&descAlignY=60&animation=fadeIn" />
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=5EEAD4&center=true&vCenter=true&width=780&lines=Turning+raw+data+into+decisions+people+act+on;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Scikit-learn;Machine+Learning+%C2%B7+NLP+%C2%B7+Business+Intelligence" />
+<img alt="Typing animation of role and tech stack" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=5EEAD4&center=true&vCenter=true&width=780&lines=Turning+raw+data+into+decisions+people+act+on;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Scikit-learn;Machine+Learning+%C2%B7+NLP+%C2%B7+Business+Intelligence" />
 </div>
 
 <br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20Data%20Science)-1E293B?style=flat-square&labelColor=1E293B&color=D4AF37" />
-<img src="https://img.shields.io/badge/CGPA-9.55%20%2F%2010-1E293B?style=flat-square&labelColor=1E293B&color=D4AF37" />
-<img src="https://img.shields.io/badge/Chennai%2C%20India-1E293B?style=flat-square&labelColor=1E293B&color=D4AF37" />
+🟢 <b>Actively looking for Data Analyst / Data Scientist roles</b>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img alt="B.Tech CSE AI and Data Science" src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20Data%20Science)-1E293B?style=flat-square&labelColor=1E293B&color=D4AF37" />
+<img alt="CGPA 9.55 out of 10" src="https://img.shields.io/badge/CGPA-9.55%20%2F%2010-1E293B?style=flat-square&labelColor=1E293B&color=D4AF37" />
+<img alt="Location: Chennai, India" src="https://img.shields.io/badge/Chennai%2C%20India-1E293B?style=flat-square&labelColor=1E293B&color=D4AF37" />
 
 </div>
 
@@ -27,7 +35,7 @@
 &nbsp;
 
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=atchaya436&color=1e293b&style=flat-square&label=PROFILE+VIEWS" />
+<img alt="Profile views counter" src="https://komarev.com/ghpvc/?username=atchaya436&color=1e293b&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -48,7 +56,21 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
+<div align="center">
+
+📖&nbsp; <a href="#about-me">About</a> &nbsp;·&nbsp;
+<a href="#technical-skills">Skills</a> &nbsp;·&nbsp;
+<a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
+<a href="#experience">Experience</a> &nbsp;·&nbsp;
+<a href="#certifications--education">Certifications</a> &nbsp;·&nbsp;
+<a href="#github-analytics">GitHub Analytics</a> &nbsp;·&nbsp;
+<a href="#lets-connect">Connect</a>
+
+</div>
+
+<br>
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
 
 ## About Me
 
@@ -65,29 +87,41 @@ Currently deepening my applied ML and statistics skills to move from analyst to 
 </td>
 <td width="42%" valign="top" align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sql,mysql&theme=dark" /><br><br>
-<img src="https://skillicons.dev/icons?i=sklearn,jupyter,streamlit&theme=dark" /><br><br>
-<img src="https://skillicons.dev/icons?i=azure,git,github,vscode&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,sql,mysql&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,sql,mysql&theme=light">
+  <img alt="Python, SQL, MySQL skill icons" src="https://skillicons.dev/icons?i=python,sql,mysql&theme=dark">
+</picture><br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sklearn,jupyter,streamlit&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=sklearn,jupyter,streamlit&theme=light">
+  <img alt="Scikit-learn, Jupyter, Streamlit skill icons" src="https://skillicons.dev/icons?i=sklearn,jupyter,streamlit&theme=dark">
+</picture><br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure,git,github,vscode&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=azure,git,github,vscode&theme=light">
+  <img alt="Azure, Git, GitHub, VS Code skill icons" src="https://skillicons.dev/icons?i=azure,git,github,vscode&theme=dark">
+</picture>
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
 
 ## Technical Skills
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Pandas-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
-<img src="https://img.shields.io/badge/NumPy-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
-<img src="https://img.shields.io/badge/Matplotlib-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
-<img src="https://img.shields.io/badge/Seaborn-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
-<img src="https://img.shields.io/badge/Power%20BI-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
-<img src="https://img.shields.io/badge/DAX-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
-<img src="https://img.shields.io/badge/Power%20Query-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
-<img src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
-<img src="https://img.shields.io/badge/MS%20Excel-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
+<img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
+<img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
+<img alt="DAX" src="https://img.shields.io/badge/DAX-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
+<img alt="Power Query" src="https://img.shields.io/badge/Power%20Query-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
+<img alt="MS Excel" src="https://img.shields.io/badge/MS%20Excel-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4" />
 
 </div>
 
@@ -102,7 +136,7 @@ Currently deepening my applied ML and statistics skills to move from analyst to 
 <tr><td><b>SQL & Databases</b></td><td>●●●●○</td><td>MySQL, Azure SQL</td></tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
 
 ## Featured Projects
 
@@ -151,7 +185,7 @@ End-to-end BI platform for automated data cleaning, visualization, KPI analysis,
 
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
 
 ## Experience
 
@@ -171,7 +205,7 @@ End-to-end BI platform for automated data cleaning, visualization, KPI analysis,
 
 <sub>`Python` `NLP` `Scikit-learn` `Model Evaluation`</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
 
 ## Certifications & Education
 
@@ -194,22 +228,28 @@ End-to-end BI platform for automated data cleaning, visualization, KPI analysis,
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
 
 ## GitHub Analytics
 
+<details open>
+<summary><b>📈&nbsp; Click to expand / collapse stats, streak, trophies & activity</b></summary>
+<br>
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=atchaya436&show_icons=true&hide_border=true&title_color=D4AF37&icon_color=5EEAD4&text_color=F1F5F9&bg_color=0F172A" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=atchaya436&hide_border=true&background=0F172A&stroke=D4AF37&ring=5EEAD4&fire=D4AF37&currStreakLabel=D4AF37" />
+<img height="165" alt="Atchaya\'s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=atchaya436&show_icons=true&hide_border=true&title_color=D4AF37&icon_color=5EEAD4&text_color=F1F5F9&bg_color=0F172A" />
+<img height="165" alt="Atchaya\'s GitHub streak stats" src="https://streak-stats.demolab.com/?user=atchaya436&hide_border=true&background=0F172A&stroke=D4AF37&ring=5EEAD4&fire=D4AF37&currStreakLabel=D4AF37" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atchaya436&layout=compact&hide_border=true&title_color=D4AF37&text_color=F1F5F9&bg_color=0F172A" />
+<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atchaya436&layout=compact&hide_border=true&title_color=D4AF37&text_color=F1F5F9&bg_color=0F172A" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=atchaya436&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=atchaya436&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atchaya436&bg_color=0F172A&color=D4AF37&line=D4AF37&point=5EEAD4&area=true&hide_border=true" width="100%" />
+<img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=atchaya436&bg_color=0F172A&color=D4AF37&line=D4AF37&point=5EEAD4&area=true&hide_border=true" width="100%" />
 
 </div>
+
+</details>
 
 <br>
 
@@ -217,11 +257,11 @@ End-to-end BI platform for automated data cleaning, visualization, KPI analysis,
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/atchaya436?theme=dark&font=JetBrains%20Mono&ext=contest" />
+<img alt="LeetCode stats card" src="https://leetcard.jacoblin.cool/atchaya436?theme=dark&font=JetBrains%20Mono&ext=contest" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:5EEAD4&height=3" />
 
 ## Currently
 
@@ -261,4 +301,4 @@ Data Analyst · Data Scientist · Power BI Analyst
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1E293B,100:0F172A&height=100&section=footer" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=soft&color=0:1E293B,100:0F172A&height=100&section=footer" />
