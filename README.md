@@ -238,8 +238,8 @@ End-to-end BI platform for automated data cleaning, visualization, KPI analysis,
 
 <div align="center">
 
-<img height="165" alt="Atchaya\'s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=atchaya436&show_icons=true&hide_border=true&title_color=D4AF37&icon_color=5EEAD4&text_color=F1F5F9&bg_color=0F172A" />
-<img height="165" alt="Atchaya\'s GitHub streak stats" src="https://streak-stats.demolab.com/?user=atchaya436&hide_border=true&background=0F172A&stroke=D4AF37&ring=5EEAD4&fire=D4AF37&currStreakLabel=D4AF37" />
+<img height="165" alt="Atchaya's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=atchaya436&show_icons=true&hide_border=true&title_color=D4AF37&icon_color=5EEAD4&text_color=F1F5F9&bg_color=0F172A" />
+<img height="165" alt="Atchaya's GitHub streak stats" src="https://streak-stats.demolab.com/?user=atchaya436&hide_border=true&background=0F172A&stroke=D4AF37&ring=5EEAD4&fire=D4AF37&currStreakLabel=D4AF37" />
 
 <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atchaya436&layout=compact&hide_border=true&title_color=D4AF37&text_color=F1F5F9&bg_color=0F172A" />
 
