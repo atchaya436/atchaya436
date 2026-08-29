@@ -185,7 +185,7 @@ Interactive retail sales dashboard on a star-schema data model with time-intelli
 End-to-end BI platform for automated data cleaning, visualization, KPI analysis, and insight generation.
 
 <p align="center">
-<img width="90%" alt="InsightBI Streamlit app demo showing EDA, boxplots, and KPI dashboard navigation" src="https://raw.githubusercontent.com/atchaya436/atchaya436/main/assets/insightbi-demo.gif" />
+<img width="90%" alt="InsightBI Streamlit app demo showing EDA, boxplots, and KPI dashboard navigation" src="assests/insightbi-demo.gif" />
 </p>
 
 | | |
