@@ -147,7 +147,7 @@ Currently deepening my applied ML and statistics skills to move from analyst to 
 End-to-end cyberbullying detection system using NLP and TF-IDF vectorization, benchmarked across three models and deployed for real-time inference.
 
 <p align="center">
-<img width="45%" alt="Cyberbullying Detection bot flagging toxic messages with confidence scores" src="https://raw.githubusercontent.com/atchaya436/atchaya436/main/assets/cyberbullying-demo.png" />
+<img width="45%" alt="Cyberbullying Detection bot flagging toxic messages with confidence scores" src="assests/cyberbullying-demo.png" />
 </p>
 
 | | |
