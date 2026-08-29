@@ -146,6 +146,10 @@ Currently deepening my applied ML and statistics skills to move from analyst to 
 
 End-to-end cyberbullying detection system using NLP and TF-IDF vectorization, benchmarked across three models and deployed for real-time inference.
 
+<p align="center">
+<img width="45%" alt="Cyberbullying Detection bot flagging toxic messages with confidence scores" src="https://raw.githubusercontent.com/atchaya436/atchaya436/main/assets/cyberbullying-demo.png" />
+</p>
+
 | | |
 | :-- | :-- |
 | **Stack** | Python · NLP · Scikit-learn · FastAPI · Logistic Regression |
@@ -161,6 +165,10 @@ End-to-end cyberbullying detection system using NLP and TF-IDF vectorization, be
 
 Interactive retail sales dashboard on a star-schema data model with time-intelligence and cross-page filtering, published for on-demand stakeholder access.
 
+<p align="center">
+<img width="90%" alt="Power BI Retail Sales dashboard showing sales trend, top products, and top manufactured categories" src="https://raw.githubusercontent.com/atchaya436/atchaya436/main/assets/powerbi-dashboard.png" />
+</p>
+
 | | |
 | :-- | :-- |
 | **Stack** | Power BI · DAX · Power Query |
@@ -175,6 +183,10 @@ Interactive retail sales dashboard on a star-schema data model with time-intelli
 <br>
 
 End-to-end BI platform for automated data cleaning, visualization, KPI analysis, and insight generation.
+
+<p align="center">
+<img width="90%" alt="InsightBI Streamlit app demo showing EDA, boxplots, and KPI dashboard navigation" src="https://raw.githubusercontent.com/atchaya436/atchaya436/main/assets/insightbi-demo.gif" />
+</p>
 
 | | |
 | :-- | :-- |
@@ -238,8 +250,12 @@ End-to-end BI platform for automated data cleaning, visualization, KPI analysis,
 
 <div align="center">
 
-
+<img height="165" alt="Atchaya's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=atchaya436&show_icons=true&hide_border=true&title_color=D4AF37&icon_color=5EEAD4&text_color=F1F5F9&bg_color=0F172A" />
 <img height="165" alt="Atchaya's GitHub streak stats" src="https://streak-stats.demolab.com/?user=atchaya436&hide_border=true&background=0F172A&stroke=D4AF37&ring=5EEAD4&fire=D4AF37&currStreakLabel=D4AF37" />
+
+<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atchaya436&layout=compact&hide_border=true&title_color=D4AF37&text_color=F1F5F9&bg_color=0F172A" />
+
+<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=atchaya436&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 <img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=atchaya436&bg_color=0F172A&color=D4AF37&line=D4AF37&point=5EEAD4&area=true&hide_border=true" width="100%" />
 
