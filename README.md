@@ -35,7 +35,6 @@
 &nbsp;
 
 <br><br>
-<img alt="Profile views counter" src="https://komarev.com/ghpvc/?username=atchaya436&color=1e293b&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
