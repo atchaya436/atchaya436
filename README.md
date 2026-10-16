@@ -165,7 +165,7 @@ End-to-end cyberbullying detection system using NLP and TF-IDF vectorization, be
 Interactive retail sales dashboard on a star-schema data model with time-intelligence and cross-page filtering, published for on-demand stakeholder access.
 
 <p align="center">
-<img width="90%" alt="Power BI Retail Sales dashboard — slideshow of Overview, Customer Segmentation, and Category Contribution pages" src="https://raw.githubusercontent.com/atchaya436/atchaya436/main/assets/powerbi-dashboard.gif" />
+<img width="90%" alt="Power BI Retail Sales dashboard — slideshow of Overview, Customer Segmentation, and Category Contribution pages" src="assests/powerbi-dashboard.gif" />
 </p>
 
 | | |
@@ -184,7 +184,7 @@ Interactive retail sales dashboard on a star-schema data model with time-intelli
 End-to-end BI platform for automated data cleaning, visualization, KPI analysis, and insight generation.
 
 <p align="center">
-<img width="90%" alt="InsightBI Streamlit app demo showing EDA, boxplots, and KPI dashboard navigation" src="https://raw.githubusercontent.com/atchaya436/atchaya436/main/assets/insightbi-demo.gif" />
+<img width="90%" alt="InsightBI Streamlit app demo showing EDA, boxplots, and KPI dashboard navigation" src="assests/insightbi-demo.gif" />
 </p>
 
 | | |
